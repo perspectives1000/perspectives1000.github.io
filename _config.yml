@@ -16,14 +16,14 @@ timezone: America/Los_Angeles
 
 title: Perspectives, a thousand! # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: ~~~~~~~~~~~~~~~~~~
 
 description: >- # used by seo meta and the atom feed
   Thoughts and learnings from the current era of technology
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://perspectives1000.github.io"
 
 github:
   username: perspectives1000 # change to your github username
