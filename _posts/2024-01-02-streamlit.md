@@ -1,8 +1,8 @@
 ---
 title: Streamlit - Web App Development for Data Folks
 date: 2024-01-02
-categories: python
-tags:
+categories: python,general
+tags: review
 author: perspectives1000
 ---
 
