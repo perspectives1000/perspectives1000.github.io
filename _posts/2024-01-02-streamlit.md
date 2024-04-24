@@ -1,8 +1,8 @@
 ---
-title: Streamlit - Python Web App Development framework for Data folks
+title: Streamlit - Python Web App framework for Data folks
 date: 2024-01-02
-categories: python,general
-tags: review
+categories: [python]
+tags: [review, general]
 author: perspectives1000
 ---
 
