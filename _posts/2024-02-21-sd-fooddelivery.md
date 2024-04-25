@@ -6,7 +6,7 @@ tags:
 author: perspectives1000
 ---
 
-## **System Design for a Food Delivery App (like Uber Eats)**
+## **System Design for a Food Delivery App (like UberEats)**
 
 Here's a breakdown of the key components for a food delivery app system:
 
