@@ -4,4 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Hello, to the perspectives, a thousand (or a million!) musings!
+> A space to jot down the various technologies and learnings that I come across!
