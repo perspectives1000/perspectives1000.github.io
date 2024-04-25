@@ -1,7 +1,7 @@
 ---
 title: SystemDesign - Food delivery app
 date: 2024-02-21
-categories: [systemdesign,technical]
+categories: [systemdesign]
 tags: 
 author: perspectives1000
 ---
