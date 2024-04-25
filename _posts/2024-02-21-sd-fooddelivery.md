@@ -8,6 +8,10 @@ author: perspectives1000
 
 ## **System Design for a Food Delivery App (like UberEats)**
 
+
+![Food Delivery](/assets/UberEats-System.png "Food Delivery")
+
+
 Here's a breakdown of the key components for a food delivery app system:
 
 **1. User Management:**
@@ -94,4 +98,4 @@ Here's a breakdown of the key components for a food delivery app system:
 This is a high-level overview of the system design. The specific technologies and implementation details will vary depending on specific requirements and scale.
 
 
-![Food Delivery](/assets/UberEats-System.png "Food Delivery")
+
