@@ -92,3 +92,6 @@ Here's a breakdown of the key components for a food delivery app system:
 - **Push Notifications:** Send push notifications to users and couriers for order updates, delivery status, and promotions.
 
 This is a high-level overview of the system design. The specific technologies and implementation details will vary depending on specific requirements and scale.
+
+
+![Food Delivery](/assets/UberEats-System.png "Food Delivery")
