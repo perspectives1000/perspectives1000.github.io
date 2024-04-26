@@ -4,4 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+![Thoughts](/assets/perspectives1.png "Thoughts")
+
 > A space to jot down the various technologies and learnings that I come across!
