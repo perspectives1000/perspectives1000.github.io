@@ -6,4 +6,5 @@ order: 4
 
 ![Thoughts](/assets/perspective3.png "Thoughts")
 
-> A space to jot down the various technologies and learnings that I come across!
+
+A space to jot down the various technologies and learnings that I come across!
