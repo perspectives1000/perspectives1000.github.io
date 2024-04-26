@@ -1,5 +1,5 @@
 ---
-title: What is the difference between an Embedding model and an LLM
+title: What is the difference between an Embedding model and an LLM?
 date: 2024-04-03
 categories: [generativeAI]
 tags: [ai]
