@@ -36,3 +36,7 @@ Neural networks are complex, but here are some key concepts to understand them b
 6. **Loss Function:** This function measures how well the network's predictions differ from the actual values. It's minimized during training to improve the network's accuracy.
 
 Imagine a neural network learning to recognize cats in images. Each neuron might represent a specific feature, like edges, shapes, or textures. By adjusting connections and weights, the network learns which features are most important for identifying cats.
+
+
+---
+**Reference**: Gemini
