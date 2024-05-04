@@ -21,3 +21,6 @@ Here's a table summarizing the key differences:
 
 - Neurons are more versatile and powerful due to their non-linear activation functions.
 - Perceptrons are a stepping stone in the history of neural networks, but their limitations make them less useful in modern applications.
+
+---
+**Reference**:  Gemini
