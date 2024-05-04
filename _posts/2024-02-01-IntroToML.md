@@ -1,8 +1,8 @@
 ---
 title: Machine Learning Basics
 date: 2024-02-01
-categories: generativeAI
-tags: general
+categories: [generativeAI]
+tags: [general]
 author: perspectives1000
 ---
 
