@@ -23,3 +23,16 @@ Not all machine learning uses neural networks, but neural networks are a dominan
 - Image recognition (facial recognition, medical imaging analysis)
 - Natural Language Processing (machine translation, chatbots)
 - Speech recognition (voice assistants, dictation software)
+
+### Constituents of a neural network
+
+Neural networks are complex, but here are some key concepts to understand them better:
+
+1. **Artificial Neurons:** The building blocks of a neural network, inspired by biological neurons. **They receive inputs, apply an activation function, and send an output to other neurons.**
+2. **Layers:** Neurons are organized into layers. Information travels from the input layer, through hidden layers (which do most of the processing), to the output layer.
+3. **Connections:** Neurons are connected to each other, and the **strength of these connections (weights)** determines how information flows through the network.
+4. **Activation Functions:** These functions determine **if a neuron "fires" (sends an output)** based on the weighted sum of its inputs. Common functions include **sigmoid and ReLU.**
+5. **Training:** Neural networks learn by adjusting the weights of connections based on their performance on training data. This is done using algorithms like **backpropagation**.
+6. **Loss Function:** This function measures how well the network's predictions differ from the actual values. It's minimized during training to improve the network's accuracy.
+
+Here's an analogy: Imagine a neural network learning to recognize cats in images. Each neuron might represent a specific feature, like edges, shapes, or textures. By adjusting connections and weights, the network learns which features are most important for identifying cats.
