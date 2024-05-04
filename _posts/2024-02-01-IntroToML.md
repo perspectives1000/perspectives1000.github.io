@@ -72,6 +72,20 @@ Machine learning can be categorized based on how they learn from data. Here's a 
     - Machine translation (translating languages without paired examples)
     - Speech recognition (converting spoken language to text)
     - Image captioning (generating descriptions of images)
+ 
+### Various Learning styles
+
+  - **Neural Networks:** Mimic the brain for complex pattern recognition in images, speech, or text. (Ex: Facial recognition).  **They consist of interconnected nodes that process information layer by layer.**
+      
+  - **Support Vector Machines (SVMs):** Draw the best line to separate data categories. (Ex: Image classification, handwriting recognition).    - Supervised Learning model for classification
+      
+      A support vector machine (SVM) is a supervised machine learning algorithm that classifies data by finding an **optimal line or hyperplane** that maximizes the distance between each class in an N-dimensional space.
+      
+  - **Decision Trees:** Ask a series of questions about data to make a prediction, like a flowchart. (Ex: Customer churn prediction, Medical diagnosis). **These models work like flowcharts**, asking a series of questions about the data to make a prediction.  They are easy to interpret and don't require massive amounts of data for training.  Non-parametric Supervised learning for classification and regression.
+      
+  - **K-Nearest Neighbors (KNN):** Classify data based on similarity to its closest neighbors. (Ex: Handwritten digit recognition). Non-parametric Supervised learning classifier model
+      
+  - **Ensemble Models:** Combine multiple models for improved performance, like a team of experts. (Ex: Gradient boosting for fraud detection, random forest for stock market prediction)
 
 ---
 **Reference** : https://www.tensorflow.org/about
