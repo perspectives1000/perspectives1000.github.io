@@ -1,6 +1,6 @@
 ---
 title: Neurons and Perceptrons in NeuralNetworks
-date: 2024-01-02
+date: 2024-03-06
 categories: [generativeAI]
 tags: [general]
 author: perspectives1000
