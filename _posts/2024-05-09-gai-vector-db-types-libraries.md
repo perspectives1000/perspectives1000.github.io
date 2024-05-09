@@ -90,4 +90,5 @@ Vector libraries are the building blocks for working with vectors in your applic
 Vector libraries are essential tools for working with vectors in your application. They provide the foundation for manipulating and processing vectors, whether you're working directly with vector data or interacting with vector databases for large-scale storage and retrieval. By understanding how vector libraries and vector databases complement each other, you can build powerful applications that leverage the power of similarity search.
 
 -----
-**Reference**: Gemini
+**Reference**: https://docs.haystack.deepset.ai/docs/choosing-a-document-store
+
