@@ -1,5 +1,5 @@
 ---
-title: Streamlit - LLM - BERT and BART AI models
+title: LLM - BERT and BART AI models
 date: 2024-05-08
 categories: [llm]
 tags: [general]
