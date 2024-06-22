@@ -1,6 +1,6 @@
 ---
-title: RAG - Indexing pipeling chunking methods
-date: 2024-05-10
+title: RAG - Indexing pipeline chunking methods
+date: 2024-06-22
 categories: [llm-pipeline]
 tags: [general]
 author: perspectives1000
