@@ -12,6 +12,7 @@ author: perspectives1000
  - available information,
  - resources, and
  - the collective knowledge of the team.
+   
 Decision-making is critical for effective management, as it directly impacts the team's performance, competitiveness, and long-term success.
 
 Key aspects include:
