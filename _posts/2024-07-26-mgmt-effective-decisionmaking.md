@@ -1,5 +1,5 @@
 ---
-title: Engineering Management -  Decision Making
+title: Eng Mgmt -  Building the Decision Making muscle
 date: 2024-07-26
 categories: [mgmt]
 tags: [mgmt]
